@@ -1,0 +1,7 @@
+C:\Projects\LearnMath\LearnMath\bin\Debug\LearnMath.exe.config
+C:\Projects\LearnMath\LearnMath\bin\Debug\LearnMath.exe
+C:\Projects\LearnMath\LearnMath\bin\Debug\LearnMath.pdb
+C:\Projects\LearnMath\LearnMath\obj\Debug\LearnMath.csprojAssemblyReference.cache
+C:\Projects\LearnMath\LearnMath\obj\Debug\LearnMath.csproj.CoreCompileInputs.cache
+C:\Projects\LearnMath\LearnMath\obj\Debug\LearnMath.exe
+C:\Projects\LearnMath\LearnMath\obj\Debug\LearnMath.pdb
